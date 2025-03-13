@@ -7,3 +7,13 @@ pergunta03
 pergunta04
 
 pergunta05
+
+questao06
+
+questao07
+
+questao08
+
+questao09
+
+questao10
